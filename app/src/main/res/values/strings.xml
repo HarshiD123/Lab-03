@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travel partner</string>
+    <string name="Enter_Location">Enter Location</string>
+    <string name="model_of_vehicle">Model of Vehicle</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="number_of_seat">Number of Seat</string>
+    <string name="price_of_rent">Price of rent</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="Description">description</string>
+    <string name="previous">Previous</string>
+    <string name="post">Post</string>
+</resources>
